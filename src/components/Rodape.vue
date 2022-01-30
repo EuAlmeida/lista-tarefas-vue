@@ -8,7 +8,7 @@ export default {};
 
 <style scoped>
 footer {
-  background-color: rgb(68, 140, 173);
+  background-color: rgb(73, 143, 97);
   color: rgb(255, 255, 255);;  
   height: 50px;
   width: 100%;
