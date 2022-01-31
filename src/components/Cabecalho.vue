@@ -12,7 +12,7 @@ export default {
 
 <style>
 header {
-  background-color: rgb(73, 143, 97);
+  background-color: rgb(106, 168, 192);
   color: white;
   height: 60px;
   width: 100%;

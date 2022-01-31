@@ -1,5 +1,5 @@
 <template>
-  <footer>Meu rodapé</footer>
+  <footer>Lista de tarefas ©2022</footer>
 </template>
 
 <script>
@@ -8,7 +8,7 @@ export default {};
 
 <style scoped>
 footer {
-  background-color: rgb(73, 143, 97);
+  background-color: rgb(106, 168, 192);
   color: rgb(255, 255, 255);;  
   height: 50px;
   width: 100%;

@@ -5,7 +5,7 @@
       <adicionar-tarefa @adicionarTarefa="adicionarTarefa" />
       <listar-tarefas :tarefas="tarefas" />
       <footer>
-        Alterar o título da sua lista de tarefas:
+        Mudar Titulo da Lista de Tarefas
         <entrada-dados v-model="titulo" type="text" />
       </footer>
     </div>

@@ -3,7 +3,7 @@
     <entrada-dados @salvar="adicionarTarefa" v-model="novaTarefa" />
     <span class="input-group-btn">
       <button @click="adicionarTarefa" class="btn btn-primary">
-        Adicionar tarefa
+        Nova Tarefa
       </button>
     </span>
   </div>
